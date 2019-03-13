@@ -1,6 +1,5 @@
 # NodeJS/Express + MongoDB
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 This is an REST API using the NodeJS Express Framework and MongoDB
 
 ### Tech
