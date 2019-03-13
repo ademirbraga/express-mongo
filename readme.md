@@ -1,6 +1,6 @@
 # NodeJS/Express + MongoDB
 
-This is an REST API using the NodeJS Express Framework and MongoDB
+This is a REST API using the NodeJS Express Framework and MongoDB
 
 ### Tech
 This API uses a number of open source projects to work properly:
