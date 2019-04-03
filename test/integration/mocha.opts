@@ -1,5 +1,7 @@
 --require test/integration/helpers.js
+test/integration/global.js
 --reporter spec
---require babel/register
+--require @babel/register
 --slow 5000
 --timeout 5000
+
